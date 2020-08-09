@@ -1,4 +1,4 @@
-/** Gestion du bidon d'arrosage du balcon.
+/** Gestion du bidon d'arrosage du balcon. Version 0.9.
     Celui-ci, d'une contenance de 5L possède une electrovanne 12V (via relai donc)
     Ainsi que de deux sondes de niveau (à bulle) placées en haut et en bas.
     Gyroscope (MPU6050) est là pour ne pas remplir si il est tombé.
